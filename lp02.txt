@@ -1,0 +1,6 @@
+#larry plotter y la clave secreta del wifi
+
+Desde que en *matrix* hubio un bug, la escuela se encuentra asediada por un virus
+con el que **Larry** y sus amigos deberán luchar.
+
+En esta aventura **Larry** se enterara de nuevos detalles sobre su destino 
