@@ -1,0 +1,5 @@
+#Larry plotter y el malware de fuego
+
+Una importante hackaton se celebra en la escuela y el portátil de un compañero de **larry**
+se avería debido a un ataque de **Ballmermortt**, perdiendo asi toda la saga *Crepùsculo*
+en PDF que tenia guardado.
